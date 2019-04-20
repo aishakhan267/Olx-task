@@ -1,0 +1,11 @@
+img#a {
+    border: 1px solid grey;
+}
+div#b {
+    border: 1px solid grey;
+}
+button#c {
+    background-color: blue; 
+    padding: 10px;
+    
+}
