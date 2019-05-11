@@ -1,5 +1,6 @@
 img#a {
     border: 1px solid grey;
+    margin-top: 12px;
 }
 div#b {
     border: 1px solid grey;
@@ -9,3 +10,11 @@ button#c {
     padding: 10px;
     
 }
+#phones {
+    list-style-type: none;
+    
+}
+#home,#mobile,#set,#model {
+    float: left;
+}
+
